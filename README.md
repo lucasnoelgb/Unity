@@ -2,15 +2,12 @@
 Lucas Noel<br>
 Lucas Carvalho
 
+## GamePlay
 
-## Static Collider
-
-## Rigidbody Collider
-
-## Kinematic Rigidbody Collider
-
-## Static Trigger Collider
-
-## Rigidbody Trigger Collider
-
-## Kinematic Rigidbody Trigger Collider
+## Conseitos Ultilizados
+- Static Collider<br>
+- Rigidbody Colliderr<br>
+- Kinematic Rigidbody Colliderr<br>
+- Static Trigger Colliderr
+- Rigidbody Trigger Colliderr
+- Kinematic Rigidbody Trigger Colliderr
