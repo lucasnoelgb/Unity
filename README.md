@@ -8,14 +8,14 @@ Primeiramente pensanmos em uma cena e veio a mente basquete e isso nos baseou no
 
 # Static Collider
  - Adicionamos colliders a esse componentes que nao possuem rigidbody para simular um chão e paredes onde por ser um static collider ele poderá interagir com  Dynamic Colliders ou Rigidbody Collider, mas não se moverá pois não possui um rigidbody.
- - 
+  
 ![image](https://github.com/lucasnoelgb/Unity/assets/129121307/622f951f-8a19-4fa1-bade-ec888844df7e)
 
 
 
 # Rigidbody Collider
 - Este é o collider que possui um "rigidbody" com a opção "IsKinematic" desativada. E na nossa cena foi ultilizados nesses elementos.
-- 
+ 
 ![image](https://github.com/lucasnoelgb/Unity/assets/129121307/63cff668-be14-4006-bbd8-8dcdd82ef6b1)
 
 
@@ -47,7 +47,7 @@ Primeiramente pensanmos em uma cena e veio a mente basquete e isso nos baseou no
 ![b](https://github.com/lucasnoelgb/Unity/assets/129121307/e821bc6a-ac86-4c52-841f-eeee25e1f9e1)
 ![c](https://github.com/lucasnoelgb/Unity/assets/129121307/2697276e-6454-487c-8f4e-9c90b2d833f2)
 
-## movimentacao
+## movimentação
 ![Captura de tela 2023-10-30 115528](https://github.com/lucasnoelgb/Unity/assets/129121307/5af77977-c7ea-4b11-985a-3d65c06bbcba)
 
 
